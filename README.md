@@ -1,3 +1,4 @@
+## Random Quote Generator
 Welcome to the Random Quote Generator! This web application displays random quotes to inspire, motivate, or entertain users.
 
 ## Features
